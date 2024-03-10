@@ -4,7 +4,7 @@ Welcome to the "End to End Machine Learning" repository! This curated collection
 
 ## Table of Contents
 
-1. [Data Gathering](#00_Data_Gathering)
+1. [Data Gathering](#End to End Machine Learning/00_Data_Gathering)
 2. [Exploratory Data Analysis](#01_Exploratory_Data_Analysis_(EDA))
 3. [Feature Engineering](#02_Feature_Engineering)
 4. [Machine Learning Algorithms](#03_Machine_Learning_Algorithms)
